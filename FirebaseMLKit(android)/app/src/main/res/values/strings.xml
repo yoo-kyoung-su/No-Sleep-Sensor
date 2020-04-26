@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML Kit Example</string>
+
+    <string name="firebase_ml_kit">졸음운전 방지 시스템</string>
+    <string name="face_detection">졸음운전 방지 시스템</string>
+
+</resources>

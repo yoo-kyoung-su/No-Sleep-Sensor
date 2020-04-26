@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842224291679",
+    "firebase_url": "https://mlkitfire.firebaseio.com",
+    "project_id": "mlkitfire",
+    "storage_bucket": "mlkitfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842224291679:android:6022cc5305b1be4a0230ea",
+        "android_client_info": {
+          "package_name": "com.hitanshudhawan.firebasemlkitexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842224291679-4evctpt4nvqmfeqmrbsnuu2tdlca2scf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIxGU-99ihjkuEQ1aemffMZQBFRJY_f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842224291679-4evctpt4nvqmfeqmrbsnuu2tdlca2scf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
